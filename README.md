@@ -8,7 +8,7 @@ Welcome to the **CryptoTailor API Documentation** repository! 🎉
 
 - 🧪 **[Backtest](https://cryptotailor.io/backtest)** your strategies for free using up to **6 years of historical data**.  
 - 🤖 Create your own **[Crypto Trading Bot](https://cryptotailor.io)** to automate trades—no coding needed.  
-- 🔧 Automate your own Pine Scripts usings **[TradingView Bots](https://cryptotailor.io/features/tradingview-signal-bots)**.  
+- 🔧 Automate your own Pine Scripts using **[TradingView Bots](https://cryptotailor.io/features/tradingview-signal-bots)**.  
 - ⚡ Forward test strategies in demo mode with live market data.  
 - 📊 Receive **[Crypto Indicator Alerts](https://cryptotailor.io/features/smart-alerts)** for real-time market updates.  
 - 🌐 Connect seamlessly with exchanges like Binance, Binance.US, KuCoin, Bybit, OKX, BingX, and CoinEx.  
